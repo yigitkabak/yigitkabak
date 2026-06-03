@@ -1,5 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+# Who Am I?
 
+I'm Yiğit Kabak, a 16-year-old software developer and the founder of Openbyte.
+
+My primary focus is building scalable software systems, search technologies, and open-source projects. I enjoy designing systems from the ground up, experimenting with new technologies, and turning ambitious ideas into real products.
+
+Currently, I'm working on advanced search infrastructure, large-scale indexing systems, privacy-focused technologies, and developer tools.
+
+I believe great software comes from curiosity, continuous learning, and the willingness to build things that others think are impossible.
 
 <div align="center">
   <picture>
